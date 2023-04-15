@@ -8,5 +8,5 @@ Detailed description: see YouTube video.
 
 
 [![Final video of fixing issues in your code in VS Code]
-(https://img.youtube.com/vi/DBYsJZXEsv/maxresdefault.jpg)]
+(https://img.youtube.com/vi/DBYsJZXEsvk&ab_channel=CinaArjmand/maxresdefault.jpg)]
 (https://www.youtube.com/watch?v=DBYsJZXEsvk&ab_channel=CinaArjmand)
