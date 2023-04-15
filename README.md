@@ -6,6 +6,4 @@ Contains A-star planner algorithm with global path and waypoint recording functi
 Detailed description: see YouTube video below.
 
 
-[![UGV Video Presentation](https://img.youtube.com/vi/DBYsJZXEsvk/maxresdefault.jpg)]
-
-(https://www.youtube.com/watch?v=DBYsJZXEsvk&ab_channel=CinaArjmand)
+[![UGV Video Presentation](https://img.youtube.com/vi/DBYsJZXEsvk/maxresdefault.jpg)](https://www.youtube.com/watch?v=DBYsJZXEsvk&ab_channel=CinaArjmand)
